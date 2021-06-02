@@ -1,4 +1,2 @@
-* linguist-vendored
-*.php linguist-vendored=false
-
-*.python linguist-detectable=true
+$ cat .gitattributes
+*. php linguist-language=Python
